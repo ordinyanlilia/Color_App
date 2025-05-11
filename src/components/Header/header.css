@@ -1,0 +1,32 @@
+.color-block {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 2px solid #000;
+}
+
+.color-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 15px;
+}
+
+.thank-you-message-mobile {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #a53e3e;
+  border: 1px solid #c7303f;
+  border-radius: 8px;
+  display: "flex";
+  flex-direction: column;
+  gap: "10px";
+}
+
+.thank-you-message {
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #a53e3e;
+  border: 1px solid #c7303f;
+  border-radius: 8px;
+}
